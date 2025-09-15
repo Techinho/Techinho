@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey, I'm Techinho</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, I'm Ilyass</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<!-- About Me -->
+### **About me**
 <img align="right" src="https://imgcdn.stablediffusionweb.com/2024/10/14/dc698df4-65c3-473e-900b-d64b5f31493d.jpg" width="300px" alt="My Avatar">
 **About Me**
 
