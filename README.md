@@ -8,7 +8,7 @@
 
 ### **About me**
 <img align="right" src="https://imgcdn.stablediffusionweb.com/2024/10/14/dc698df4-65c3-473e-900b-d64b5f31493d.jpg" width="300px" alt="My Avatar">
-**About Me**
+
 
 I'm Ilyass, a junior developer and full-stack web development student. I have experience in creating web applications using **React**, **Laravel**, and **MySQL**. I'm also exploring **AI** technologies and enjoy solving problems through programming. Currently, I'm improving my skills in **Redux**, and **Tailwind CSS**.
 ...
